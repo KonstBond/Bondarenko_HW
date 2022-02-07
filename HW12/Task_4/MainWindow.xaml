@@ -1,0 +1,36 @@
+﻿<Window x:Class="Task_4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task_4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="B7" Content="7" FontSize="28"  HorizontalAlignment="Left" Height="57" Margin="377,63,0,0" VerticalAlignment="Top" Width="68" Grid.ColumnSpan="2" Click="BInput_Click"/>
+        <Button x:Name="B8" Content="8" FontSize="28" HorizontalAlignment="Left" Height="57" Margin="473,63,0,0" VerticalAlignment="Top" Width="69" Grid.ColumnSpan="2" Click="BInput_Click"/>
+        <Button x:Name="B9" Content="9" FontSize="28" HorizontalAlignment="Left" Height="57" Margin="567,63,0,0" VerticalAlignment="Top" Width="68" Grid.ColumnSpan="2" Click="BInput_Click"/>
+        <Button x:Name="B4" Content="4" FontSize="28" HorizontalAlignment="Left" Height="57" Margin="377,145,0,0" VerticalAlignment="Top" Width="68" Grid.ColumnSpan="2" Click="BInput_Click"/>
+        <Button x:Name="B5" Content="5" FontSize="28" HorizontalAlignment="Left" Height="57" Margin="473,145,0,0" VerticalAlignment="Top" Width="69" Grid.ColumnSpan="2" Click="BInput_Click"/>
+        <Button x:Name="B6" Content="6" FontSize="28" HorizontalAlignment="Left" Height="57" Margin="567,145,0,0" VerticalAlignment="Top" Width="68" Grid.ColumnSpan="2" Click="BInput_Click"/>
+        <Button x:Name="B1" Content="1" FontSize="28" HorizontalAlignment="Left" Height="58" Margin="377,223,0,0" VerticalAlignment="Top" Width="68" Grid.ColumnSpan="2" Click="BInput_Click"/>
+        <Button x:Name="B2" Content="2" FontSize="28" HorizontalAlignment="Left" Height="58" Margin="473,223,0,0" VerticalAlignment="Top" Width="69" Grid.ColumnSpan="2" Click="BInput_Click"/>
+        <Button x:Name="B3" Content="3" FontSize="28" HorizontalAlignment="Left" Height="58" Margin="567,223,0,0" VerticalAlignment="Top" Width="68" Grid.ColumnSpan="2" Click="BInput_Click"/>
+        <Button x:Name="B0" Content="0" FontSize="28" HorizontalAlignment="Left" Height="57" Margin="377,306,0,0" VerticalAlignment="Top" Width="68" Grid.ColumnSpan="2" Click="BInput_Click"/>
+        <Button x:Name="Brez" Content="=" FontSize="28" HorizontalAlignment="Left" Height="57" Margin="567,306,0,0" VerticalAlignment="Top" Width="69" Grid.ColumnSpan="2" Click="BRez_Click"/>
+        <Button x:Name="BCE" Content="CE" FontSize="28" HorizontalAlignment="Left" Height="56" Margin="474,306,0,0" VerticalAlignment="Top" Width="68" Grid.ColumnSpan="2" Click="BClear_Click"/>
+        <Button x:Name="Badd" Content="+" FontSize="28" HorizontalAlignment="Left" Height="57" Margin="655,63,0,0" VerticalAlignment="Top" Width="67" Grid.ColumnSpan="2" IsEnabled="False" Click="BInput_Click"/>
+        <Button x:Name="Bsub" Content="-" FontSize="28" HorizontalAlignment="Left" Height="57" Margin="655,145,0,0" VerticalAlignment="Top" Width="67" Grid.ColumnSpan="2" IsEnabled="False" Click="BInput_Click"/>
+        <Button x:Name="Bmul" Content="*" FontSize="28" HorizontalAlignment="Left" Height="58" Margin="655,223,0,0" VerticalAlignment="Top" Width="67" RenderTransformOrigin="-1.533,3.138" Grid.ColumnSpan="2" IsEnabled="False" Click="BInput_Click"/>
+        <Button x:Name="Bdiv" Content="/" FontSize="28" HorizontalAlignment="Left" Height="56" Margin="655,306,0,0" VerticalAlignment="Top" Width="67" RenderTransformOrigin="-1.533,3.138" Grid.ColumnSpan="2" IsEnabled="False" Click="BInput_Click"/>
+        <TextBox HorizontalAlignment="Left" x:Name="Output" FontSize="28" IsEnabled="False" Height="44" Margin="24,312,0,0" Text="0" TextWrapping="Wrap" VerticalAlignment="Top" Width="330" Grid.ColumnSpan="2"/>
+        <Image HorizontalAlignment="Left" Height="254" Margin="24,47,0,0" VerticalAlignment="Top" Width="334" Stretch="UniformToFill" Grid.ColumnSpan="2" Source="/1614692096_28-p-anime-tyan-dumaet-art-kartinki-42.jpg">
+        </Image>
+        <Label Content="Важно!!! Приоритет действий отсутсвует" FontSize="17" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="61" Margin="24,363,0,0" VerticalAlignment="Top" Width="330"/>
+
+    </Grid>
+</Window>

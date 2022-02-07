@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\ITVDN\HW_C#_Basic\HW18\Task_3(lib)\bin\Debug\net5.0\Task_3(lib).deps.json
+C:\Users\admin\Desktop\ITVDN\HW_C#_Basic\HW18\Task_3(lib)\bin\Debug\net5.0\Task_3(lib).dll
+C:\Users\admin\Desktop\ITVDN\HW_C#_Basic\HW18\Task_3(lib)\bin\Debug\net5.0\ref\Task_3(lib).dll
+C:\Users\admin\Desktop\ITVDN\HW_C#_Basic\HW18\Task_3(lib)\bin\Debug\net5.0\Task_3(lib).pdb
+C:\Users\admin\Desktop\ITVDN\HW_C#_Basic\HW18\Task_3(lib)\obj\Debug\net5.0\Task_3(lib).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ITVDN\HW_C#_Basic\HW18\Task_3(lib)\obj\Debug\net5.0\Task_3(lib).AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ITVDN\HW_C#_Basic\HW18\Task_3(lib)\obj\Debug\net5.0\Task_3(lib).AssemblyInfo.cs
+C:\Users\admin\Desktop\ITVDN\HW_C#_Basic\HW18\Task_3(lib)\obj\Debug\net5.0\Task_3(lib).csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ITVDN\HW_C#_Basic\HW18\Task_3(lib)\obj\Debug\net5.0\Task_3(lib).dll
+C:\Users\admin\Desktop\ITVDN\HW_C#_Basic\HW18\Task_3(lib)\obj\Debug\net5.0\ref\Task_3(lib).dll
+C:\Users\admin\Desktop\ITVDN\HW_C#_Basic\HW18\Task_3(lib)\obj\Debug\net5.0\Task_3(lib).pdb

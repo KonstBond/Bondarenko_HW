@@ -1,0 +1,16 @@
+﻿<Window x:Class="Task_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task_3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="334" Width="150">
+    <Grid Margin="0,10,0,-6" HorizontalAlignment="Center" Width="826">
+        <Label Name="lblTime" FontSize="28" HorizontalAlignment="Center" VerticalAlignment="Top" Height="42" Width="122" Margin="0,122,0,0" Content="00:00:00" Background="White" />
+        <Button x:Name="ButtonRun" Content="RUN" FontSize="40" HorizontalAlignment="Center" Margin="0,27,0,0" VerticalAlignment="Top" Height="60" Width="108" RenderTransformOrigin="0.544,0.327" Click="ButtonRun_Click"/>
+        <Button x:Name="ButtonStop" Content="STOP" HorizontalAlignment="Center" FontSize="40" Margin="0,204,0,0" VerticalAlignment="Top" Height="60" Width="108" Click="ButtonStop_Click"/>
+        <Button x:Name="ValueUP" Content="∧" HorizontalAlignment="Center" Margin="0,92,0,0" VerticalAlignment="Top" Height="30" Width="54" Click="ValueUP_Click"/>
+        <Button x:Name="ValueDOWN" Content="∨" HorizontalAlignment="Center" Margin="0,169,0,0" VerticalAlignment="Top" Height="30" Width="54" Click="ValueDOWN_Click"/>
+    </Grid>
+</Window>
