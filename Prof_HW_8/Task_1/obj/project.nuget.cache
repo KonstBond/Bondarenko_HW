@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LPLzxkJAvZFy36goeE2ZJgoo+QHSnPViH+0x5FQL84K8O0umPlZbWcPIvkfvQ+PyZH1XqrjLbFJrBzH+wwwddQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\ITVDN\\HW_C#_Basic\\Prof_HW_8\\Task_1\\Task_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

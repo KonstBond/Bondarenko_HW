@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<MyContacts>
+	<Contact TelephoneNumber="0665638365">Jack</Contact>
+	<Contact TelephoneNumber="0668281556">Mickle</Contact>
+	<Contact TelephoneNumber="0666820525">Ben</Contact>
+	<Contact TelephoneNumber="0996327612">Bogdan</Contact>
+</MyContacts>

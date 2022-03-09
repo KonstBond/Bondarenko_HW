@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0cdfd0bd-7542-4ec1-85a9-272f5fe9891f": {
+      "ProjectGuid": "0cdfd0bd-7542-4ec1-85a9-272f5fe9891f",
+      "DisplayName": "Task_1",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "67429d9e-df40-4fae-9457-97832f6c7133": {
+      "ProjectGuid": "67429d9e-df40-4fae-9457-97832f6c7133",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "5d0c8404-a502-4d9d-b62e-a52ba9423b96": {
+      "ProjectGuid": "5d0c8404-a502-4d9d-b62e-a52ba9423b96",
+      "DisplayName": "TestAssemby",
+      "ColorIndex": 2
+    },
+    "f4045050-0f3a-4d1d-9de9-297504b6faf6": {
+      "ProjectGuid": "f4045050-0f3a-4d1d-9de9-297504b6faf6",
+      "DisplayName": "TestLibrary",
+      "ColorIndex": 3
+    },
+    "c0bf9307-b7f5-463d-ada1-2e6e025c314f": {
+      "ProjectGuid": "c0bf9307-b7f5-463d-ada1-2e6e025c314f",
+      "DisplayName": "LibraryTemperature_Task_2",
+      "ColorIndex": 4
+    },
+    "1cdd7809-77cb-42d7-95e3-57d43ba28702": {
+      "ProjectGuid": "1cdd7809-77cb-42d7-95e3-57d43ba28702",
+      "DisplayName": "Task_3",
+      "ColorIndex": 5
+    },
+    "4cd99705-9490-4af1-a379-54e9ed347b1d": {
+      "ProjectGuid": "4cd99705-9490-4af1-a379-54e9ed347b1d",
+      "DisplayName": "Task_3",
+      "ColorIndex": 6
+    },
+    "c1a52b0b-d646-4c4d-9933-95bcf8a9a906": {
+      "ProjectGuid": "c1a52b0b-d646-4c4d-9933-95bcf8a9a906",
+      "DisplayName": "Task_2_Lib",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

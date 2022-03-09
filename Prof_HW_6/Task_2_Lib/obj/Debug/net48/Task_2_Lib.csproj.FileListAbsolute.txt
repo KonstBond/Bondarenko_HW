@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\ITVDN\HW_C#_Basic\Prof_HW_6\Task_2_Lib\obj\Debug\net48\Task_2_Lib.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ITVDN\HW_C#_Basic\Prof_HW_6\Task_2_Lib\obj\Debug\net48\Task_2_Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ITVDN\HW_C#_Basic\Prof_HW_6\Task_2_Lib\obj\Debug\net48\Task_2_Lib.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ITVDN\HW_C#_Basic\Prof_HW_6\Task_2_Lib\obj\Debug\net48\Task_2_Lib.AssemblyInfo.cs
+C:\Users\admin\Desktop\ITVDN\HW_C#_Basic\Prof_HW_6\Task_2_Lib\obj\Debug\net48\Task_2_Lib.csproj.CoreCompileInputs.cache
